@@ -1,0 +1,3 @@
+
+[$HOME/.config/vcsh/repo.d/starship.git]
+checkout = vcsh clone 'git@github.com:lukgarn/vcsh-config-starship.git' 'starship'

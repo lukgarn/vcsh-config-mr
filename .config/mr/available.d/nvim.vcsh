@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/nvim.git]
+checkout = "vcsh clone git@github.com:lukgarn/vcsh-config-nvim.git nvim"
+
