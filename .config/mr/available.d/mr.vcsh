@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/mr.git]
+checkout = vcsh clone https://github.com/lukgarn/vcsh-config-mr.git mr
+
